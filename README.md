@@ -1,4 +1,4 @@
-# simpliearn-testing
+# SimpliEarn Sentiment Analysis
 
 ## How to Run
 Best practice is to work with Google Colab.
