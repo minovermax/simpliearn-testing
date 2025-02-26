@@ -1,8 +1,9 @@
-# simpliearn-testing
+# SimpliEarn Sentiment Analysis
 
 ## How to Run
 Best practice is to work with Google Colab.
-Open the file within Colab, and run!
+
+Open the file within Colab along with the transcript file and run!
 
 ## Current Progress
 - using 'roberta-large' to determine sentiment (positive, neutral, negative)
